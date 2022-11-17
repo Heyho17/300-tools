@@ -54,4 +54,4 @@ sleep 2
 
 cd 300-tools
 
-bash Mr.Heyho.sh
+bash Eror.sh
