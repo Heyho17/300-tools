@@ -39,12 +39,12 @@ sleep 1
 echo
 if [ $pass = "######" ]
         then
-        echo [•]"Y"
+        echo [•]"worng password!"
         sleep 2
 clear
         else
-        echo [•]" N"
-        echo [•]" kembali nyet "
+        echo [•]" wrong password!"
+        echo [•]" ulangi kontol "
         sleep 3
         sh CBC.sh
         sleep 4
