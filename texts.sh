@@ -1,13 +1,13 @@
 #!/bin/bash
 #version 1.0
 
-#MAU NGAPAIN TOT?:V
+#MAU NGAPAIN TOT?
 #RECODE?REEDIT?RECOPYRIGHT?COPAS?
 #MALU TOLOL!!!
 #KAGA BERMORAL!
 
 
-#01/08/18
+#17/08/18
 
 clear
 # Variables
@@ -37,14 +37,14 @@ toilet -f big -F gay Mr.Heyho
 echo $pass $username
 sleep 1
 echo
-if [ $pass = "Heyho17" ]
+if [ $pass = "######" ]
         then
-        echo [•]"Pasword Benar"
+        echo [•]"Y"
         sleep 2
 clear
         else
-        echo [•]" Pasword Salah"
-        echo [•]" Ulangi Lagi "
+        echo [•]" N"
+        echo [•]" kembali nyet "
         sleep 3
         sh CBC.sh
         sleep 4
