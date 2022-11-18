@@ -242,9 +242,8 @@ sleep 2
 clear
 toilet -f big -F gay Welcome
 echo "=======================================================" | lolcat
-echo [•]" Author : Mr.Heyho!                              [•]" | lolcat
-echo [•]" Team   : Classy Bastard Cyber                   [•]" | lolcat
-echo [•]" Facebook : Anissa Syahputri                     [•]" | lolcat
+echo [•]" CIEE LOLOS DARI PASSWORD :V                     [•]" | lolcat
+echo [•]" pilih lanjut Dek!                               [•]" | lolcat
 echo "++++++++++++++++++++++++++++++++++++++++++++++++++++[•]" | lolcat
 echo "_______________________________________________________" | lolcat
 echo [1]" Lanjut"
