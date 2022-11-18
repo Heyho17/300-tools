@@ -29,6 +29,7 @@ red='\e[1;31m'
 figlet MR.HEYHO  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
+echo    "NOTES     : CIEE CIEE LOLOS DARI TEKA TEKI :V
 echo -b "TYPE      : TOOLS INSTALLER $green " |lolcat
 echo -b "VERSION   : V.3 " | lolcat
 echo -b "TOTALS    : 311 TOOLS " | lolcat
@@ -36,7 +37,7 @@ echo -b "AUTHOR    : MR.HEYHO $green " |lolcat
 echo -b "FACEBOOK  : ANISSA SYAHPUTRI  $green " |lolcat
 echo -b "TEAM      : CLASSY BASTARD CYBER  $green " |lolcat
 echo -b "GITHUB    : HEYHO17  $green " |lolcat
-echo -b "NOTES     : JELAJAHI SETIAP TOOLS DENGAN BIJAK " | lolcat
+echo -b "NOTES     : JELAJAHI SEMUA TOOLS DENGAN BIJAK! " | lolcat
 echo -b "_____________________________________________________________" | lolcat
 
 sleep 1
