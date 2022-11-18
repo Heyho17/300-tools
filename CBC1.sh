@@ -20,12 +20,12 @@ sleep 1
 echo
 if [ $pass = "######" ]
         then
-        echo [•]"Pasword Benar"
+        echo [•]"Y"
         sleep 2
 clear
         else
-        echo [•]" Pasword Salah"
-        echo [•]" Ulangi Lagi "
+        echo [•]" N"
+        echo [•]" Kembali kontol "
         sleep 3
         sh CBC.sh
         sleep 4
