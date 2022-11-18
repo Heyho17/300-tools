@@ -47,8 +47,6 @@ clear
         sleep 3
         sh CBC.sh
         sleep 4
-fi
-sleep 2
 
 # tampilan
 clear
