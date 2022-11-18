@@ -20,12 +20,12 @@ sleep 1
 echo
 if [ $pass = "######" ]
         then
-        echo [•]"Y"
+        echo [•]"wrong password!"
         sleep 2
 clear
         else
-        echo [•]" N"
-        echo [•]" Kembali kontol "
+        echo [•]" wrong password!"
+        echo [•]" ulangi kontol "
         sleep 3
         sh CBC.sh
         sleep 4
@@ -43,14 +43,14 @@ toilet -f big -F gay Mr.Heyho
 echo $pass $username
 sleep 1
 echo
-if [ $pass = "Heyho17" ]
+if [ $pass = "######" ]
         then
-        echo [•]"Pasword Benar"
+        echo [•]"wrong password!"
         sleep 2
 clear
         else
-        echo [•]" Pasword Salah"
-        echo [•]" Ulangi Lagi "
+        echo [•]" wrong password!"
+        echo [•]" ulangi kontol "
         sleep 3
         sh CBC.sh
         sleep 4
@@ -66,14 +66,14 @@ toilet -f big -F gay Mr.Heyho
 echo $pass $username
 sleep 1
 echo
-if [ $pass = "Heyho17" ]
+if [ $pass = "######" ]
         then
-        echo [•]"Pasword Benar"
+        echo [•]"wrong password!"
         sleep 2
 clear
         else
-        echo [•]" Pasword Salah"
-        echo [•]" Ulangi Lagi "
+        echo [•]" wrong password!"
+        echo [•]" ulangi kontol "
         sleep 3
         sh CBC.sh
         sleep 4
@@ -89,14 +89,14 @@ toilet -f big -F gay Mr.Heyho
 echo $pass $username
 sleep 1
 echo
-if [ $pass = "Heyho17" ]
+if [ $pass = "######" ]
         then
-        echo [•]"Pasword Benar"
+        echo [•]"worng password!"
         sleep 2
 clear
         else
-        echo [•]" Pasword Salah"
-        echo [•]" Ulangi Lagi "
+        echo [•]" wrong password!"
+        echo [•]" ulangi kontol "
         sleep 3
         sh CBC.sh
         sleep 4
@@ -112,14 +112,14 @@ toilet -f big -F gay Mr.Heyho
 echo $pass $username
 sleep 1
 echo
-if [ $pass = "Heyho17" ]
+if [ $pass = "######" ]
         then
-        echo [•]"Pasword Benar"
+        echo [•]"wrong password!"
         sleep 2
 clear
         else
-        echo [•]" Pasword Salah"
-        echo [•]" Ulangi Lagi "
+        echo [•]" wrong password!"
+        echo [•]" Ulangi kontol "
         sleep 3
         sh CBC.sh
         sleep 4
@@ -135,14 +135,14 @@ toilet -f big -F gay Mr.Heyho
 echo $pass $username
 sleep 1
 echo
-if [ $pass = "Heyho17" ]
+if [ $pass = "######" ]
         then
-        echo [•]"Pasword Benar"
+        echo [•]"wrong password!"
         sleep 2
 clear
         else
-        echo [•]" Pasword Salah"
-        echo [•]" Ulangi Lagi "
+        echo [•]" wrong password!"
+        echo [•]" Ulangi kontol "
         sleep 3
         sh CBC.sh
         sleep 4
@@ -158,14 +158,14 @@ toilet -f big -F gay Mr.Heyho
 echo $pass $username
 sleep 1
 echo
-if [ $pass = "Heyho17" ]
+if [ $pass = "######" ]
         then
-        echo [•]"Pasword Benar"
+        echo [•]"wrong password!"
         sleep 2
 clear
         else
-        echo [•]" Pasword Salah"
-        echo [•]" Ulangi Lagi "
+        echo [•]" worng password!"
+        echo [•]" Ulangi kontol "
         sleep 3
         sh CBC.sh
         sleep 4
@@ -181,14 +181,14 @@ toilet -f big -F gay Mr.Heyho
 echo $pass $username
 sleep 1
 echo
-if [ $pass = "Heyho17" ]
+if [ $pass = "######" ]
         then
-        echo [•]"Pasword Benar"
+        echo [•]"worng password!"
         sleep 2
 clear
         else
-        echo [•]" Pasword Salah"
-        echo [•]" Ulangi Lagi "
+        echo [•]" worng password!"
+        echo [•]" Ulangi kontol "
         sleep 3
         sh CBC.sh
         sleep 4
@@ -204,14 +204,14 @@ toilet -f big -F gay Mr.Heyho
 echo $pass $username
 sleep 1
 echo
-if [ $pass = "Heyho17" ]
+if [ $pass = "######" ]
         then
-        echo [•]"Pasword Benar"
+        echo [•]"worng password!"
         sleep 2
 clear
         else
-        echo [•]" Pasword Salah"
-        echo [•]" Ulangi Lagi "
+        echo [•]" worng password!"
+        echo [•]" Ulangi kontol "
         sleep 3
         sh CBC.sh
         sleep 4
@@ -225,14 +225,14 @@ toilet -f big -F gay Mr.Heyho
 echo $pass $username
 sleep 1
 echo
-if [ $pass = "Heyho17" ]
+if [ $pass = "######" ]
         then
-        echo [•]"Pasword Benar"
+        echo [•]"worng password!"
         sleep 2
 clear
         else
-        echo [•]" Pasword Salah"
-        echo [•]" Ulangi Lagi "
+        echo [•]" worng password!"
+        echo [•]" Ulangi kontol "
         sleep 3
         sh CBC.sh
         sleep 4
