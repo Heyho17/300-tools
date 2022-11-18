@@ -26,6 +26,34 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
+#!bin/bash
+
+clear
+
+# tampilan
+clear
+toilet -f big -F gay Mr.Heyho
+#pasword
+        read -p "[•]Masukan Username : " username
+        read -p "[•]Masukan Pasword : " pass
+echo $pass $username
+sleep 1
+echo
+if [ $pass = "Heyho17" ]
+        then
+        echo [•]"Pasword Benar"
+        sleep 2
+clear
+        else
+        echo [•]" Pasword Salah"
+        echo [•]" Ulangi Lagi "
+        sleep 3
+        sh CBC.sh
+        sleep 4
+fi
+sleep 2
+
+
 figlet MR.HEYHO  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
