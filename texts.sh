@@ -26,10 +26,6 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-clear
-
-
-
 figlet MR.HEYHO  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
