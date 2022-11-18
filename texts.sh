@@ -28,12 +28,7 @@ red='\e[1;31m'
 
 clear
 
-# tampilan
-clear
-toilet -f big -F gay Mr.Heyho
-#pasword
-        echo [•] Cie lolos dari Password :v
-        echo [•] Selamat mencoba 
+
 
 figlet MR.HEYHO  | lolcat
 
