@@ -1,11 +1,10 @@
+#!bin/bash
+
 #yg record atau copy gua doain bisul 7 turunan! 
 #aamiin ya Allah
 #Maka nya berkarya anjing mikir!
 #jngn cuma mau enak nya doang copy copy tolol
 
-
-
-#!bin/bash
 
 clear
 
