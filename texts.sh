@@ -32,25 +32,8 @@ clear
 clear
 toilet -f big -F gay Mr.Heyho
 #pasword
-        read -p "[•]Masukan Username : " username
-        read -p "[•]Masukan Pasword : " pass
-echo $pass $username
-sleep 1
-echo
-if [ $pass = "######" ]
-        then
-        echo [•]"wrong password!"
-        sleep 2
-clear
-        else
-        echo [•]" wrong password!"
-        echo [•]" ulangi kontol "
-        sleep 3
-        sh CBC.sh
-        sleep 4
-
-fi
-sleep 2
+        echo [•] Cie lolos dari Password :v
+        echo [•] Selamat mencoba 
 
 figlet MR.HEYHO  | lolcat
 
