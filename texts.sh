@@ -26,8 +26,6 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-#!bin/bash
-
 clear
 
 # tampilan
