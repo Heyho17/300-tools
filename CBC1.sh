@@ -142,6 +142,96 @@ clear
 fi
 sleep 2
 
+# tampilan 
+clear
+toilet -f big -F gay Mr.Heyho
+#pasword
+        read -p "[•]Masukan Username : " username
+        read -p "[•]Masukan Pasword : " pass
+echo $pass $username
+sleep 1
+echo
+if [ $pass = "Heyho17" ]
+        then
+        echo [•]"Pasword Benar"
+        sleep 2
+clear
+        else
+        echo [•]" Pasword Salah"
+        echo [•]" Ulangi Lagi "
+        sleep 3
+        sh CBC.sh
+        sleep 4
+fi
+sleep 2
+
+# tampilan
+clear
+toilet -f big -F gay Mr.Heyho
+#pasword
+        read -p "[•]Masukan Username : " username
+        read -p "[•]Masukan Pasword : " pass
+echo $pass $username
+sleep 1
+echo
+if [ $pass = "Heyho17" ]
+        then
+        echo [•]"Pasword Benar"
+        sleep 2
+clear
+        else
+        echo [•]" Pasword Salah"
+        echo [•]" Ulangi Lagi "
+        sleep 3
+        sh CBC.sh
+        sleep 4
+fi
+sleep 2
+
+# tampilan 
+clear
+toilet -f big -F gay Mr.Heyho
+#pasword
+        read -p "[•]Masukan Username : " username
+        read -p "[•]Masukan Pasword : " pass
+echo $pass $username
+sleep 1
+echo
+if [ $pass = "Heyho17" ]
+        then
+        echo [•]"Pasword Benar"
+        sleep 2
+clear
+        else
+        echo [•]" Pasword Salah"
+        echo [•]" Ulangi Lagi "
+        sleep 3
+        sh CBC.sh
+        sleep 4
+fi
+sleep 2
+clear
+toilet -f big -F gay Mr.Heyho
+#pasword
+        read -p "[•]Masukan Username : " username
+        read -p "[•]Masukan Pasword : " pass
+echo $pass $username
+sleep 1
+echo
+if [ $pass = "Heyho17" ]
+        then
+        echo [•]"Pasword Benar"
+        sleep 2
+clear
+        else
+        echo [•]" Pasword Salah"
+        echo [•]" Ulangi Lagi "
+        sleep 3
+        sh CBC.sh
+        sleep 4
+fi
+sleep 2
+
 # tampilan
 clear
 toilet -f big -F gay Welcome
