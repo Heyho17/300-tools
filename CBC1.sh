@@ -17,13 +17,13 @@ toilet -f big -F gay Mr.Heyho
 echo $pass $username
 sleep 1
 echo
-if [ $pass = "######" ]
+if [ $pass = "one" ]
         then
-        echo [•]"wrong password!"
+        echo [•]"Password Salah!"
         sleep 2
 clear
         else
-        echo [•]" wrong password!"
+        echo [•]" Password Salah!"
         echo [•]" ulangi kontol "
         sleep 3
         sh CBC.sh
@@ -42,13 +42,13 @@ toilet -f big -F gay Mr.Heyho
 echo $pass $username
 sleep 1
 echo
-if [ $pass = "######" ]
+if [ $pass = "two" ]
         then
-        echo [•]"wrong password!"
+        echo [•]"Password Salah!"
         sleep 2
 clear
         else
-        echo [•]" wrong password!"
+        echo [•]" Password Salah!"
         echo [•]" ulangi kontol "
         sleep 3
         sh CBC.sh
@@ -65,13 +65,13 @@ toilet -f big -F gay Mr.Heyho
 echo $pass $username
 sleep 1
 echo
-if [ $pass = "######" ]
+if [ $pass = "three" ]
         then
-        echo [•]"wrong password!"
+        echo [•]"Password Salah!"
         sleep 2
 clear
         else
-        echo [•]" wrong password!"
+        echo [•]" Password Salah!"
         echo [•]" ulangi kontol "
         sleep 3
         sh CBC.sh
@@ -88,13 +88,13 @@ toilet -f big -F gay Mr.Heyho
 echo $pass $username
 sleep 1
 echo
-if [ $pass = "######" ]
+if [ $pass = "four" ]
         then
-        echo [•]"worng password!"
+        echo [•]"Password Salah!"
         sleep 2
 clear
         else
-        echo [•]" wrong password!"
+        echo [•]" Password Salah!"
         echo [•]" ulangi kontol "
         sleep 3
         sh CBC.sh
@@ -111,13 +111,13 @@ toilet -f big -F gay Mr.Heyho
 echo $pass $username
 sleep 1
 echo
-if [ $pass = "######" ]
+if [ $pass = "five" ]
         then
-        echo [•]"wrong password!"
+        echo [•]"Password Salah!"
         sleep 2
 clear
         else
-        echo [•]" wrong password!"
+        echo [•]" Password Salah!"
         echo [•]" Ulangi kontol "
         sleep 3
         sh CBC.sh
@@ -134,13 +134,13 @@ toilet -f big -F gay Mr.Heyho
 echo $pass $username
 sleep 1
 echo
-if [ $pass = "######" ]
+if [ $pass = "six" ]
         then
-        echo [•]"wrong password!"
+        echo [•]"Password Salah!"
         sleep 2
 clear
         else
-        echo [•]" wrong password!"
+        echo [•]" Password Salah!"
         echo [•]" Ulangi kontol "
         sleep 3
         sh CBC.sh
@@ -157,13 +157,13 @@ toilet -f big -F gay Mr.Heyho
 echo $pass $username
 sleep 1
 echo
-if [ $pass = "######" ]
+if [ $pass = "Seven" ]
         then
-        echo [•]"wrong password!"
+        echo [•]"Password Salah!"
         sleep 2
 clear
         else
-        echo [•]" worng password!"
+        echo [•]" Password Salah!"
         echo [•]" Ulangi kontol "
         sleep 3
         sh CBC.sh
@@ -180,13 +180,13 @@ toilet -f big -F gay Mr.Heyho
 echo $pass $username
 sleep 1
 echo
-if [ $pass = "######" ]
+if [ $pass = "eight" ]
         then
-        echo [•]"worng password!"
+        echo [•]"Password Salah!"
         sleep 2
 clear
         else
-        echo [•]" worng password!"
+        echo [•]" Password Salah!"
         echo [•]" Ulangi kontol "
         sleep 3
         sh CBC.sh
@@ -203,13 +203,13 @@ toilet -f big -F gay Mr.Heyho
 echo $pass $username
 sleep 1
 echo
-if [ $pass = "######" ]
+if [ $pass = "nine" ]
         then
-        echo [•]"worng password!"
+        echo [•]"Password Salah!"
         sleep 2
 clear
         else
-        echo [•]" worng password!"
+        echo [•]" Password Salah!"
         echo [•]" Ulangi kontol "
         sleep 3
         sh CBC.sh
@@ -224,14 +224,14 @@ toilet -f big -F gay Mr.Heyho
 echo $pass $username
 sleep 1
 echo
-if [ $pass = "######" ]
+if [ $pass = "ten" ]
         then
-        echo [•]"worng password!"
+        echo [•]"Nice Right!"
         sleep 2
 clear
         else
-        echo [•]" worng password!"
-        echo [•]" Ulangi kontol "
+        echo [•]" Bagus Benar!"
+        echo [•]" Mantap Mantap "
         sleep 3
         sh CBC.sh
         sleep 4
@@ -242,12 +242,16 @@ sleep 2
 clear
 toilet -f big -F gay Welcome
 echo "=======================================================" | lolcat
-echo [•]" CIEE LOLOS DARI PASSWORD :V                     [•]" | lolcat
-echo [•]" pilih lanjut Dek!                               [•]" | lolcat
+echo [•]" CIEE LOLOS DARI PASSWORD :V                     [•]"
+echo [•]" JANGAN SENANG DULU DEK :V
+echo [•]" TEKA TEKI SELANJUTNYA :P
+echo [•]" CARI KUNCI UNTUK MASUK :P
+echo [•]" KE SCRIPT NYA DI SALAH SATU NOMOR ITU           [•]"
 echo "++++++++++++++++++++++++++++++++++++++++++++++++++++[•]" | lolcat
 echo "_______________________________________________________" | lolcat
-echo [1]" Lanjut"
-echo [2]" Kembali"
+echo [6]" Lanjut"  [4]" Kembali
+echo [2]" Kembali" [1]" Lanjut
+echo [3]" Lanjut"  [5]" Kembali
 read -p "Silahkan Pilih ==>"
 echo "<><><><><><><><><><><><><><><><><><><><><><><><><><>[•]" | lolcat
 sleep 2
