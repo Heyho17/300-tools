@@ -39,7 +39,7 @@ sleep 1
 echo
 if [ $pass = "######" ]
         then
-        echo [•]"worng password!"
+        echo [•]"wrong password!"
         sleep 2
 clear
         else
