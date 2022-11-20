@@ -26,6 +26,254 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
+clear
+
+# tampilan
+clear
+toilet -f big -F gay Mr.Heyho
+#pasword
+        read -p "[•]Masukan Username : " username
+        read -p "[•]Masukan Pasword : " pass
+echo $pass $username
+sleep 1
+echo
+if [ $pass = "one" ]
+        then
+        echo [•]"Password Salah!"
+        sleep 2
+clear
+        else
+        echo [•]" Password Salah!"
+        echo [•]" ulangi kontol "
+        sleep 3
+        sh CBC.sh
+        sleep 4
+fi
+sleep 2
+
+clear
+
+# tampilan
+clear
+toilet -f big -F gay Mr.Heyho
+#pasword
+        read -p "[•]Masukan Username : " username
+        read -p "[•]Masukan Pasword : " pass
+echo $pass $username
+sleep 1
+echo
+if [ $pass = "two" ]
+        then
+        echo [•]"Password Salah!"
+        sleep 2
+clear
+        else
+        echo [•]" Password Salah!"
+        echo [•]" ulangi kontol "
+        sleep 3
+        sh CBC.sh
+        sleep 4
+fi
+sleep 2
+
+clear
+
+# tampilan
+clear
+toilet -f big -F gay Mr.Heyho
+#pasword
+        read -p "[•]Masukan Username : " username
+        read -p "[•]Masukan Pasword : " pass
+echo $pass $username
+sleep 1
+echo
+if [ $pass = "three" ]
+        then
+        echo [•]"Password Salah!"
+        sleep 2
+clear
+        else
+        echo [•]" Password Salah!"
+        echo [•]" ulangi kontol "
+        sleep 3
+        sh CBC.sh
+        sleep 4
+fi
+sleep 2
+
+clear
+
+# tampilan
+clear
+toilet -f big -F gay Mr.Heyho
+#pasword
+        read -p "[•]Masukan Username : " username
+        read -p "[•]Masukan Pasword : " pass
+echo $pass $username
+sleep 1
+echo
+if [ $pass = "four" ]
+        then
+        echo [•]"Password Salah!"
+        sleep 2
+clear
+        else
+        echo [•]" Password Salah!"
+        echo [•]" ulangi kontol "
+        sleep 3
+        sh CBC.sh
+        sleep 4
+fi
+sleep 2 
+
+clear
+
+# tampilan
+clear
+toilet -f big -F gay Mr.Heyho
+#pasword
+        read -p "[•]Masukan Username : " username
+        read -p "[•]Masukan Pasword : " pass
+echo $pass $username
+sleep 1
+echo
+if [ $pass = "five" ]
+        then
+        echo [•]"Password Salah!"
+        sleep 2
+clear
+        else
+        echo [•]" Password Salah!"
+        echo [•]" ulangi kontol "
+        sleep 3
+        sh CBC.sh
+        sleep 4
+fi
+sleep 2
+
+clear
+
+# tampilan
+clear
+toilet -f big -F gay Mr.Heyho
+#pasword
+        read -p "[•]Masukan Username : " username
+        read -p "[•]Masukan Pasword : " pass
+echo $pass $username
+sleep 1
+echo
+if [ $pass = "six" ]
+        then
+        echo [•]"Password Salah!"
+        sleep 2
+clear
+        else
+        echo [•]" Password Salah!"
+        echo [•]" ulangi kontol "
+        sleep 3
+        sh CBC.sh
+        sleep 4
+fi
+sleep 2
+
+clear
+
+# tampilan
+clear
+toilet -f big -F gay Mr.Heyho
+#pasword
+        read -p "[•]Masukan Username : " username
+        read -p "[•]Masukan Pasword : " pass
+echo $pass $username
+sleep 1
+echo
+if [ $pass = "seven" ]
+        then
+        echo [•]"Password Salah!"
+        sleep 2
+clear
+        else
+        echo [•]" Password Salah!"
+        echo [•]" ulangi kontol "
+        sleep 3
+        sh CBC.sh
+        sleep 4
+fi
+sleep 2
+
+clear
+
+# tampilan
+clear
+toilet -f big -F gay Mr.Heyho
+#pasword
+        read -p "[•]Masukan Username : " username
+        read -p "[•]Masukan Pasword : " pass
+echo $pass $username
+sleep 1
+echo
+if [ $pass = "eight" ]
+        then
+        echo [•]"Password Salah!"
+        sleep 2
+clear
+        else
+        echo [•]" Password Salah!"
+        echo [•]" ulangi kontol "
+        sleep 3
+        sh CBC.sh
+        sleep 4
+fi
+sleep 2
+
+clear
+
+# tampilan
+clear
+toilet -f big -F gay Mr.Heyho
+#pasword
+        read -p "[•]Masukan Username : " username
+        read -p "[•]Masukan Pasword : " pass
+echo $pass $username
+sleep 1
+echo
+if [ $pass = "nine" ]
+        then
+        echo [•]"Password Salah!"
+        sleep 2
+clear
+        else
+        echo [•]" Password Salah!"
+        echo [•]" ulangi kontol "
+        sleep 3
+        sh CBC.sh
+        sleep 4
+fi
+sleep 2
+
+clear
+
+# tampilan
+clear
+toilet -f big -F gay Mr.Heyho
+#pasword
+        read -p "[•]Masukan Username : " username
+        read -p "[•]Masukan Pasword : " pass
+echo $pass $username
+sleep 1
+echo
+if [ $pass = "ten" ]
+        then
+        echo [•]"BENAR MANTAP!"
+        sleep 2
+clear
+        else
+        echo [•]" SALAH DEK!"
+        echo [•]" ULANGI KONTOL! "
+        sleep 3
+        sh CBC.sh
+        sleep 4
+
 figlet MR.HEYHO  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
