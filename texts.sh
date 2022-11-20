@@ -53,7 +53,7 @@ echo -b $green"[#]> Thanks For Using My Tools" |lolcat
 sleep 1
 echo -b $green"[#]> MR.HEYHO On Your System" |lolcat
 
-echo -b $green"[#]> See you Again SCRIPTKIDDIES😎 :)..." |lolcat
+echo -b $green"[#]> THANKS YOU" |lolcat
 figlet MR.HEYHO | lolcat
 sleep 1
 exit
