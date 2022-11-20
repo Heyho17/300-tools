@@ -249,9 +249,9 @@ echo [•]" CARI KUNCI UNTUK MASUK :P                        [•]"
 echo [•]" KE SCRIPT NYA DI SALAH SATU NOMOR ITU            [•]"
 echo "+++++++++++++++++++++++++++++++++++++++++++++++++++++[•]" | lolcat
 echo "________________________________________________________" | lolcat
-echo       [6]" Lanjut"                                    [•]" | lolcat
-echo       [2]" Kembali"                                   [•]" | lolcat                     
-           read -p "Silahkan Pilih ==>"                    [•]" | lolcat        
+echo [6]" Lanjut"                                          [•]" | lolcat
+echo [2]" Kembali"                                         [•]" | lolcat                     
+     read -p "Silahkan Pilih ==>"                          [•]" | lolcat        
 echo "=====================================================[•]" | lolcat
 sleep 2
 
